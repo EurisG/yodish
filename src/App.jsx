@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Textbox from './components/textbox';
 
-import './App.css';
+import './style/App.css';
 import Yoda from './components/yoda';
 import axios from 'axios';
 
